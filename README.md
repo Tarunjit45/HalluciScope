@@ -25,3 +25,9 @@ cd HalluciScope
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+ollama pull llama3.2:1b
+python cli.py
+
+
+
+ollama pull llama3.2:1b
