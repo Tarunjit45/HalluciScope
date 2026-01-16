@@ -11,6 +11,9 @@
 - **Interactive CLI:** Simple terminal-based interface for quick testing.
 - **Root Cause Analysis:** Identifies why a hallucination occurred (e.g., temporal assumptions).
 
+<img width="1450" height="463" alt="Screenshot 2026-01-16 130502" src="https://github.com/user-attachments/assets/03a70b1f-c588-4cd1-8831-e86e596be7aa" />
+
+
 ## 🛠️ Installation
 
 ### 1. Prerequisites
@@ -27,3 +30,4 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ollama pull llama3.2:1b
 python cli.py
+
