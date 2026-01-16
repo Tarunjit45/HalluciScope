@@ -1,0 +1,11 @@
+{
+  "score": 0.95,
+  "claims": [
+    {
+      "text": "The IT Act was enacted in 2001 and it governs cybercrime.",
+      "verdict": "false",
+      "reason": "Year 2001 not found in source context",
+      "confidence": 0.95
+    }
+  ]
+}
